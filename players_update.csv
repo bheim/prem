@@ -1,0 +1,534 @@
+Name,Ratings,Position,Club
+Kevin De Bruyne,91,mid,Manchester City
+Mohamed Salah,90,att  mid,Liverpool
+Virgil van Dijk,90,def,Liverpool
+Cristiano Ronaldo,90,att,Manchester United
+Heung Min Son,89,att  mid,Tottenham Hotspur
+Casemiro,89,mid,Manchester United
+Alisson,89,gk,Liverpool
+Harry Kane,89,att,Tottenham Hotspur
+Ederson,89,gk,Manchester City
+N'Golo Kanté,89,mid,Chelsea
+Erling Haaland,88,att,Manchester City
+Bernardo Silva,88,mid,Manchester City
+Rúben Dias,88,def,Manchester City
+David De Gea,87,gk,Manchester United
+Hugo Lloris,87,gk,Tottenham Hotspur
+Trent Alexander-Arnold,87,def,Liverpool
+Kalidou Koulibaly,87,def,Chelsea
+Andrew Robertson,87,def,Liverpool
+Fabinho,87,mid  def,Liverpool
+Aymeric Laporte,86,def,Manchester City
+Raheem Sterling,86,"att  mid,att",Chelsea
+Thiago,86,mid,Liverpool
+Riyad Mahrez,86,att  mid,Manchester City
+Bruno Fernandes,86,mid,Manchester United
+Diogo Jota,85,"att,att",Liverpool
+Phil Foden,85,"att  mid,mid,att",Manchester City
+Ilkay Gündogan,85,mid,Manchester City
+Kyle Walker,85,def,Manchester City
+Jamie Vardy,85,att,Leicester City
+Aubameyang,85,att,Chelsea
+Mason Mount,84,mid  att,Chelsea
+Mateo Kovacic,84,mid,Chelsea
+Joel Matip,84,def,Liverpool
+Luis Díaz,84,att  mid,Liverpool
+Jadon Sancho,84,"att  mid,att",Manchester United
+Martin Ødegaard,84,mid,Arsenal
+Youri Tielemans,84,mid,Leicester City
+Declan Rice,84,mid,West Ham United
+Ivan Perišić,84,"mid  def,att",Tottenham Hotspur
+Thomas Partey,84,mid,Arsenal
+Emiliano Martínez,84,gk,Aston Villa
+Raphaël Varane,84,def,Manchester United
+Wilfred Ndidi,84,mid,Leicester City
+Kieran Trippier,84,"def,mid",Newcastle United
+Jordan Henderson,83,mid,Liverpool
+Roberto Firmino,83,att,Liverpool
+Rúben Neves,83,mid,Wolverhampton Wanderers
+John Stones,83,def,Manchester City
+Gabriel Jesus,83,"att,att",Arsenal
+Pierre-Emile Højbjerg,83,mid,Tottenham Hotspur
+Ricardo Pereira,83,def,Leicester City
+Diego Carlos,83,def,Aston Villa
+Cristian Romero,83,def,Tottenham Hotspur
+Christian Pulisic,82,"att  mid,att",Chelsea
+Aaron Ramsdale,82,gk,Arsenal
+Bukayo Saka,82,"mid,att",Arsenal
+Antony,82,att  mid,Manchester United
+Lucas Paquetá,82,"mid,att",West Ham United
+Wilfried Zaha,82,"att  mid,att",Crystal Palace
+Coutinho,82,"mid,att",Aston Villa
+Raúl Jiménez,82,att,Wolverhampton Wanderers
+Gonçalo Guedes,82,"att  mid,att",Wolverhampton Wanderers
+Jordan Pickford,82,gk,Everton
+Lucas Digne,82,def,Aston Villa
+Idrissa Gueye,82,mid,Everton
+James Maddison,82,mid,Leicester City
+Łukasz Fabiański,82,gk,West Ham United
+Cucurella,81,"def,def,mid",Chelsea
+Naby Keïta,81,mid,Liverpool
+Joe Gomez,81,def,Liverpool
+José Sá,81,gk,Wolverhampton Wanderers
+Marcus Rashford,81,"att  mid,att",Manchester United
+Allan Saint-Maximin,81,mid  att,Newcastle United
+João Moutinho,81,mid,Wolverhampton Wanderers
+Lisandro Martínez,81,"def,mid",Manchester United
+Denis Zakaria,81,mid,Chelsea
+Dejan Kulusevski,81,"att  mid,att",Tottenham Hotspur
+Richarlison,81,"att,att",Tottenham Hotspur
+Manuel Akanji,81,def,Manchester City
+Yves Bissouma,81,mid,Tottenham Hotspur
+Bruno Guimarães,81,mid,Newcastle United
+Kalvin Phillips,81,mid,Manchester City
+Palhinha,81,mid,Fulham
+Tomáš Souček,81,mid,West Ham United
+Alphonse Areola,81,gk,West Ham United
+James Ward-Prowse,81,mid,Southampton
+Kieran Tierney,81,def,Arsenal
+Neto,81,gk,AFC Bournemouth
+Nick Pope,81,gk,Newcastle United
+Harry Maguire,81,def,Manchester United
+Ibrahima Konaté,81,def,Liverpool
+Gabriel,81,def,Arsenal
+William Saliba,80,def,Arsenal
+Nélson Semedo,80,def,Wolverhampton Wanderers
+Fred,80,mid,Manchester United
+Scott McTominay,80,mid,Manchester United
+Luis Sinisterra,80,att  mid,Leeds United
+Lucas Moura,80,att  mid,Tottenham Hotspur
+Allan Marques Loureiro,80,mid,Everton
+Emiliano Buendía,80,"mid,att",Aston Villa
+Arthur,80,mid,Liverpool
+Eric Dier,80,def,Tottenham Hotspur
+Remo Freuler,80,mid,Nottingham Forest
+Renan Lodi,80,"def,mid",Nottingham Forest
+Victor Lindelöf,80,def,Manchester United
+Stefan Ortega,80,gk,Manchester City
+Nayef Aguerd,80,def,West Ham United
+Bernd Leno,80,gk,Fulham
+Anthony Martial,80,"att  mid,att",Manchester United
+Dominic Calvert-Lewin,80,att,Everton
+Harvey Barnes,80,mid  att,Leicester City
+Boubacar Kamara,80,mid,Aston Villa
+Luke Shaw,80,def,Manchester United
+Alexander Isak,80,att,Newcastle United
+Leon Bailey,80,"mid  att,att",Aston Villa
+Jarrod Bowen,80,"mid  att,att",West Ham United
+Kurt Zouma,80,def,West Ham United
+Martin Dúbravka,80,gk,Manchester United
+Vladimír Coufal,80,def,West Ham United
+Kepa Arrizabalaga,80,gk,Chelsea
+Gianluca Scamacca,80,att,West Ham United
+Aaron Wan-Bissaka,80,def,Manchester United
+Sven Botman,80,def,Newcastle United
+Smith Rowe,80,"mid,att",Arsenal
+Wesley Fofana,79,def,Chelsea
+Jonny,79,"def,def",Wolverhampton Wanderers
+Matheus Nunes,79,mid,Wolverhampton Wanderers
+Adama Traoré,79,"att  mid,att",Wolverhampton Wanderers
+Michail Antonio,79,att,West Ham United
+Abdoulaye Doucouré,79,mid,Everton
+John McGinn,79,mid,Aston Villa
+Ben Davies,79,"def,def",Tottenham Hotspur
+Donny van de Beek,79,"mid,mid",Manchester United
+Conor Gallagher,79,mid,Chelsea
+Rodrigo Bentancur,79,mid,Tottenham Hotspur
+Pablo Fornals,79,mid,West Ham United
+Callum Wilson,79,att,Newcastle United
+Ezri Konsa,79,def,Aston Villa
+Dean Henderson,79,gk,Nottingham Forest
+Danny Ings,79,att,Aston Villa
+Guaita,79,gk,Crystal Palace
+Matty Cash,79,def,Aston Villa
+Davinson Sánchez,79,def,Tottenham Hotspur
+Oleksandr Zinchenko,79,def,Arsenal
+Conor Coady,79,def,Everton
+Ben White,79,def,Arsenal
+Tyrell Malacia,79,def,Manchester United
+James Tarkowski,79,def,Everton
+Michael Keane,79,def,Everton
+Granit Xhaka,79,mid,Arsenal
+Leandro Trossard,79,"mid,att,att",Brighton and Hove Albion
+Lewis Dunk,79,def,Brighton and Hove Albion
+Pervis Estupiñán,79,def,Brighton and Hove Albion
+Manuel Lanzini,79,mid,West Ham United
+Takehiro Tomiyasu,79,def,Arsenal
+Angelo Ogbonna,79,def,West Ham United
+Jonny Evans,79,def,Leicester City
+Gabriel Martinelli,78,mid  att,Arsenal
+Saša Kalajdžić,78,att,Wolverhampton Wanderers
+Daniel Podence,78,"att  mid,mid,att",Wolverhampton Wanderers
+Pedro Neto,78,"att  mid,att,att",Wolverhampton Wanderers
+Julián Álvarez,78,"att,att,att",Manchester City
+Maxwel Cornet,78,"mid  def,att,att",West Ham United
+Nathan Aké,78,def,Manchester City
+Ollie Watkins,78,"att,att",Aston Villa
+Moussa Niakhaté,78,def,Nottingham Forest
+Patrick Bamford,78,att,Leeds United
+Douglas Luiz,78,mid,Aston Villa
+Tyrone Mings,78,def,Aston Villa
+Joël Veltman,78,"def,def",Brighton and Hove Albion
+James Milner,78,"mid  def,def",Liverpool
+Marcos Senesi,78,def,AFC Bournemouth
+Jesse Lingard,78,mid,Nottingham Forest
+Çağlar Söyüncü,78,def,Leicester City
+Clément Lenglet,78,def,Tottenham Hotspur
+Dennis Praet,78,"mid,att",Leicester City
+Miguel Almirón,78,"mid,mid,att",Newcastle United
+Diogo Dalot,78,def,Manchester United
+Marc Guehi,78,def,Crystal Palace
+Emerson,78,def,Tottenham Hotspur
+Timothy Castagne,78,"def,def",Leicester City
+Thomas Strakosha,78,gk,Brentford
+Ben Mee,78,def,Brentford
+Duje Ćaleta-Car,78,def,Southampton
+Aaron Cresswell,78,"def,def",West Ham United
+Willy Boly,78,def,Nottingham Forest
+Saïd Benrahma,78,"mid,att",West Ham United
+Frédéric Guilbert,78,def,Aston Villa
+Aleksandar Mitrović,78,att,Fulham
+Kyle Walker-Peters,78,"def,def",Southampton
+Craig Dawson,78,def,West Ham United
+Deniz Undav,77,att,Brighton and Hove Albion
+Max Kilman,77,def,Wolverhampton Wanderers
+Hee Chan Hwang,77,"att  mid,att",Wolverhampton Wanderers
+Daniel James,77,"mid,att,att",Fulham
+Oxlade-Chamberlain,77,mid,Liverpool
+Ben Godfrey,77,def,Everton
+Ivan Toney,77,att,Brentford
+Fabian Schär,77,def,Newcastle United
+Rasmus Kristensen,77,def,Leeds United
+Rodrigo,77,"mid,att",Leeds United
+Jack Harrison,77,"mid,att",Leeds United
+Kelechi Iheanacho,77,att,Leicester City
+Joachim Andersen,77,def,Crystal Palace
+Konstantinos Tsimikas,77,def,Liverpool
+Taiwo Awoniyi,77,att,Nottingham Forest
+Matt Doherty,77,def,Tottenham Hotspur
+Pascal Groß,77,mid,Brighton and Hove Albion
+Patson Daka,77,att,Leicester City
+Emerson,77,def,West Ham United
+Kevin Mbabu,77,def,Fulham
+Robert Sanchéz,77,gk,Brighton and Hove Albion
+Demarai Gray,77,"mid,att",Everton
+Ludwig Augustinsson,77,"def,mid",Aston Villa
+Illan Meslier,77,gk,Leeds United
+Jonjo Shelvey,77,mid,Newcastle United
+Oliver Skipp,77,mid,Tottenham Hotspur
+Mohammed Salisu,77,def,Southampton
+Matt Turner,77,gk,Arsenal
+Fábio Vieira,77,mid,Arsenal
+Rob Holding,77,def,Arsenal
+Wout Faes,77,def,Leicester City
+Dan Burn,77,def,Newcastle United
+Yerry Mina,77,def,Everton
+Issa Diop,77,def,Fulham
+Matt Targett,77,def,Newcastle United
+Bryan Gil Salvatierra,77,"mid,att",Tottenham Hotspur
+Rayan Aït Nouri,76,def,Wolverhampton Wanderers
+Fraser Forster,76,gk,Tottenham Hotspur
+Séamus Coleman,76,def,Everton
+Liam Cooper,76,def,Leeds United
+Chris Wood,76,att,Newcastle United
+Andros Townsend,76,mid  att,Everton
+Jeffrey Schlupp,76,"mid,att",Crystal Palace
+Stuart Armstrong,76,"mid,att",Southampton
+Mohamed Elyounoussi,76,"mid,att,att",Southampton
+Adam Webster,76,def,Brighton and Hove Albion
+Ryan Fraser,76,"mid,att",Newcastle United
+Christian Nørgaard,76,mid,Brentford
+Morgan Sanson,76,mid,Aston Villa
+Diego Llorente,76,def,Leeds United
+Daniel Amartey,76,def  mid,Leicester City
+Mohamed Elneny,76,mid,Arsenal
+Ruben Loftus-Cheek,76,mid,Chelsea
+Ayoze Pérez Gutiérrez,76,att  mid,Leicester City
+David Brooks,76,att  mid,AFC Bournemouth
+Harry Wilson,76,"mid,att",Fulham
+David Raya Martin,76,gk,Brentford
+Ché Adams,76,att,Southampton
+Thilo Kehrer,76,def,West Ham United
+Chalobah,76,"def  mid,mid",Chelsea
+Romain Perraud,76,def,Southampton
+James Justin,76,"def,def",Leicester City
+Tyler Adams,76,"mid  def,mid",Leeds United
+Odsonne Edouard,76,"att,att",Crystal Palace
+Eberechi Eze,76,"mid,mid",Crystal Palace
+Marc Roca Junqué,76,mid,Leeds United
+Jean-Philippe Mateta,76,att,Crystal Palace
+Robin Koch,76,def  mid,Leeds United
+Emmanuel Dennis,76,"att  mid,mid,att",Nottingham Forest
+Pascal Struijk,76,def  mid,Leeds United
+Boubakary Soumaré,76,mid,Leicester City
+Alexis Mac Allister,76,mid,Brighton and Hove Albion
+Tyrick Mitchell,76,def,Crystal Palace
+Mikkel Damsgaard,76,mid  att,Brentford
+Curtis Jones,76,mid,Liverpool
+Cheick Doucouré,76,mid,Crystal Palace
+Enock Mwepu,76,"mid,mid",Brighton and Hove Albion
+Dwight McNeil,76,"mid,att",Everton
+Vitaliy Mykolenko,76,def,Everton
+Manor Solomon,76,"mid,mid,att",Fulham
+Michael Olise,76,"att  mid,mid",Crystal Palace
+Neal Maupay,76,att,Everton
+Leander Dendoncker,76,mid  def,Aston Villa
+Jan Bednarek,76,def,Aston Villa
+Carlos Vinícius Alves Morais,76,att,Fulham
+Andreas Hugo Hoelgebaum Pereira,76,"mid,mid",Fulham
+Jacob Ramsey,75,mid,Aston Villa
+Anthony Gordon,75,"mid,att",Everton
+Tino Livramento,75,def,Southampton
+Djed Spence,75,def,Tottenham Hotspur
+Nathan Collins,75,def,Wolverhampton Wanderers
+James McArthur,75,mid,Crystal Palace
+Asmir Begović,75,gk,Everton
+Adam Lallana,75,mid,Brighton and Hove Albion
+Marc Albrighton,75,"mid  def,att",Leicester City
+Danny Welbeck,75,att,Brighton and Hove Albion
+Luke Ayling,75,"def,def",Leeds United
+Alex McCarthy,75,gk,Southampton
+Karl Darlow,75,gk,Newcastle United
+Pontus Jansson,75,def,Brentford
+Tom Cairney,75,mid,Fulham
+Joel Robles Blázquez,75,gk,Leeds United
+Jordan Ayew,75,"att  mid,att",Crystal Palace
+Cédric,75,def,Arsenal
+Jannik Vestergaard,75,def,Leicester City
+Jamaal Lascelles,75,def,Newcastle United
+Stuart Dallas,75,"mid  def,mid",Leeds United
+Ryan Fredericks,75,def,AFC Bournemouth
+Calum Chambers,75,"def,mid",Aston Villa
+Harrison Reed,75,mid,Fulham
+Sam Johnstone,75,gk,Crystal Palace
+Will Hughes,75,mid,Crystal Palace
+Solly March,75,"def,mid",Brighton and Hove Albion
+Robin Olsen,75,gk,Aston Villa
+Danny Ward,75,gk,Leicester City
+Alex Iwobi,75,"mid  def,mid,att",Everton
+Jefferson Lerma,75,mid,AFC Bournemouth
+Philip Billing,75,mid,AFC Bournemouth
+Tosin Adarabioyo,75,def,Fulham
+Marek Rodák,75,gk,Fulham
+Marvelous Nakamba,75,mid,Aston Villa
+Joelinton,75,mid  att,Newcastle United
+Kristoffer Ajer,75,def,Brentford
+Rico Henry,75,def,Brentford
+Mason Holgate,75,def,Everton
+Dominic Solanke,75,att,AFC Bournemouth
+Tom Davies,75,mid,Everton
+Joe Aribo,75,mid,Southampton
+Orel Mangala,75,mid,Nottingham Forest
+Yoane Wissa,75,"att  mid,att",Brentford
+Ryan Sessegnon,75,def,Tottenham Hotspur
+Morgan Gibbs-White,75,"mid,att",Nottingham Forest
+Joseph Willock,75,mid,Newcastle United
+Ethan Pinnock,75,def,Brentford
+Junior Firpo,75,def,Leeds United
+Albert Sambi Lokonga,75,mid,Arsenal
+Tariq Lamptey,75,def,Brighton and Hove Albion
+Bryan Mbeumo,75,"att  mid,att",Brentford
+Aaron Hickey,75,"def,def",Brentford
+Brennan Johnson,75,"att  mid,att",Nottingham Forest
+Luke Thomas,75,def,Leicester City
+Armando Broja,75,att,Chelsea
+Layvin Kurzawa,75,def,Fulham
+Ainsley Maitland-Niles,75,"def,mid",Southampton
+Ashley Young,74,"mid  def,att",Aston Villa
+Ryan Bertrand,74,def,Leicester City
+Wayne Hennessey,74,gk,Nottingham Forest
+Joel Ward,74,def,Crystal Palace
+Salomón Rondón,74,att,Everton
+Nathaniel Clyne,74,def,Crystal Palace
+Adam Smith,74,"def,def",AFC Bournemouth
+Shane Duffy,74,def,Fulham
+Mateusz Klich,74,mid,Leeds United
+Nampalys Mendy,74,mid,Leicester City
+Bobby Decordova-Reid,74,"mid,att",Fulham
+Luka Milivojević,74,mid,Crystal Palace
+Emil Krafth,74,"def,def",Newcastle United
+Javier Manquillo Gaitán,74,def,Newcastle United
+Ryan Christie,74,att  mid,AFC Bournemouth
+Kenny Tete,74,def,Fulham
+Jaïro Riedewald,74,mid,Crystal Palace
+Adam Armstrong,74,"att,att",Southampton
+Lewis Cook,74,mid,AFC Bournemouth
+Antonee Robinson,74,def,Fulham
+Mathias Jensen,74,mid,Brentford
+Joe Worrall,74,def,Nottingham Forest
+Axel Tuanzebe,74,def,Manchester United
+Vitaly Janelt,74,"mid  def,mid",Brentford
+Japhet Tanganga,74,"def,def",Tottenham Hotspur
+Sean Longstaff,74,mid,Newcastle United
+Kiernan Dewsbury-Hall,74,mid,Leicester City
+Moussa Djenepo,74,"mid,att",Southampton
+Ibrahima Diallo,74,mid,Southampton
+Jakub Moder,74,"mid,mid",Brighton and Hove Albion
+Sergio Gómez Martín,74,"def,mid,mid",Manchester City
+Ben Johnson,74,"def,def",West Ham United
+Brenden Aaronson,74,mid,Leeds United
+Chris Richards,74,def,Crystal Palace
+Kaoru Mitoma,74,"mid  def,att",Brighton and Hove Albion
+Amadou Onana,74,mid,Everton
+Anthony Elanga,74,"att  mid,att",Manchester United
+Jack Stephens,74,def,AFC Bournemouth
+Tom Heaton,73,gk,Manchester United
+Darren Randolph,73,gk,West Ham United
+Matt Ritchie,73,"mid  def,att",Newcastle United
+Adam Forshaw,73,mid,Leeds United
+Phil Jones,73,def,Manchester United
+Neeskens Kebano,73,mid  att,Fulham
+Jack Butland,73,gk,Crystal Palace
+Paul Dummett,73,"def,def",Newcastle United
+Nathaniel Chalobah,73,mid,Fulham
+Jacob Murphy,73,"mid  def,att",Newcastle United
+Ben Pearson,73,mid,AFC Bournemouth
+Kieffer Moore,73,att,AFC Bournemouth
+Jack Stacey,73,def,AFC Bournemouth
+Scott McKenna,73,def,Nottingham Forest
+Daniel Iversen,73,gk,Leicester City
+Josh Dasilva,73,mid,Brentford
+Reiss Nelson,73,"att  mid,att",Arsenal
+Lloyd Kelly,73,def,AFC Bournemouth
+Mark Travers,73,gk,AFC Bournemouth
+Omar Richards,73,def,Nottingham Forest
+Rúben Vinagre,73,def,Everton
+Ryan Yates,73,mid,Nottingham Forest
+Lewis O'Brien,73,"mid,mid",Nottingham Forest
+Eddie Nketiah,73,att,Arsenal
+Frank Onyeka,73,mid,Brentford
+Caoimhin Kelleher,73,gk,Liverpool
+Nathaniel Phillips,73,def,Liverpool
+Brandon Williams,73,"def,def",Manchester United
+Harvey Elliott,73,"mid,att",Liverpool
+Armel Bella Kotchap,73,def,Southampton
+Fabio Carvalho,73,"mid,mid",Liverpool
+Loïc Badé,73,def,Nottingham Forest
+Marcus Vincius Oliveira Alencar,73,"mid,att",Arsenal
+Theo Walcott,72,mid  att,Southampton
+James Tomkins,72,def,Crystal Palace
+Junior Stanislas,72,"att  mid,att",AFC Bournemouth
+Steve Cook,72,def,Nottingham Forest
+Adrián,72,gk,Liverpool
+Harry Toffolo,72,def,Nottingham Forest
+Joe Rothwell,72,mid,AFC Bournemouth
+Sergi Canós Tenés,72,"att  def,def,mid",Brentford
+Lyanco Neves Vojnovic,72,def,Southampton
+Jamal Lewis,72,def,Newcastle United
+Marcus Tavernier,72,mid,AFC Bournemouth
+Jaidon Anthony,72,"att  mid,att",AFC Bournemouth
+Joe Gelhardt,72,"att  mid,att",Leeds United
+James Garner,72,mid,Everton
+Billy Gilmour,72,mid,Brighton and Hove Albion
+Jed Steer,71,gk,Aston Villa
+Jamal Lowe,71,"att,att,att",AFC Bournemouth
+Chris Mepham,71,def,AFC Bournemouth
+Sam Surridge,71,att,Nottingham Forest
+Neco Williams,71,def,Nottingham Forest
+Keane Lewis-Potter,71,"att  mid,att",Brentford
+Jan Paul van Hecke,71,def,Brighton and Hove Albion
+Pape Matar Sarr,71,mid,Tottenham Hotspur
+Tim Ream,70,def,Fulham
+Marcus Bettinelli,70,gk,Chelsea
+Emiliano Marcondes,70,mid,AFC Bournemouth
+Flynn Downes,70,mid,West Ham United
+Gavin Bazunu,70,gk,Southampton
+Giulian Biancone,70,"def,def",Nottingham Forest
+Facundo Pellistri,70,mid  att,Manchester United
+Moisés Caicedo,70,mid,Brighton and Hove Albion
+Jordan Zemura,70,def,AFC Bournemouth
+Levi Colwill,70,def,Brighton and Hove Albion
+Willy Caballero,70,gk,Southampton
+Cameron Archer,70,"att,att",Aston Villa
+Toti,69,def,Wolverhampton Wanderers
+Lyle Taylor,69,att,Nottingham Forest
+Jack Colback,69,"mid  def,mid",Nottingham Forest
+Cafú,69,mid,Nottingham Forest
+Josh Onomah,69,mid,Fulham
+Mads Roerslev,69,def,Brentford
+Siriki Dembélé,69,"att,att",AFC Bournemouth
+Shandon Baptiste,69,mid,Brentford
+Crysencio Summerville,69,"mid,att",Leeds United
+Di'Shon Bernard,69,def,Manchester United
+Sékou Mara,69,att,Southampton
+Wilfried Gnonto,69,"att  mid,att",Leeds United
+Francisco Jorge Tavares Oliveira,69,"att  mid,att",Wolverhampton Wanderers
+Matija Šarkic,68,gk,Wolverhampton Wanderers
+Saman Ghoddos,68,"mid  att,att",Brentford
+Nathan Ferguson,68,"def,def",Crystal Palace
+Cody Drameh,68,def,Leeds United
+Connor Ronan,67,mid,Wolverhampton Wanderers
+Mark Gillespie,67,gk,Newcastle United
+Leonardo B. Lohner Maia,67,"att  mid,att",Wolverhampton Wanderers
+Jordan Smith,67,gk,Nottingham Forest
+Charlie Goode,67,def,Brentford
+Sam Greenwood,67,"mid,att",Leeds United
+Teden Mengi,67,def,Manchester United
+Darío Sarmiento,67,"mid,att",Manchester City
+Elliot Anderson,67,"att  mid,mid",Newcastle United
+Cole Palmer,67,"att  mid,mid,att",Manchester City
+Conor Coventry,66,mid,West Ham United
+Loïc Mbe Soh,66,def,Nottingham Forest
+Nathan Patterson,66,def,Everton
+Santiago Muñoz,66,"att  mid,att",Newcastle United
+Morgan Rogers,66,"att  mid,att",Manchester City
+Jeremy Sarmiento,66,"mid,att",Brighton and Hove Albion
+Scott Carson,65,gk,Manchester City
+Harry Arter,65,mid,Nottingham Forest
+Jason Steele,65,gk,Brighton and Hove Albion
+Kristoffer Klaesson,65,gk,Leeds United
+Leo Hjelde,65,def,Leeds United
+Malcolm Ebiowei,65,mid  att,Crystal Palace
+Yerson Mosquera,64,def,Wolverhampton Wanderers
+Brandon Austin,64,gk,Tottenham Hotspur
+Harvey White,64,mid,Tottenham Hotspur
+Matthew Smith,64,mid,Arsenal
+Kyle John,64,def,Everton
+James Hill,64,def,AFC Bournemouth
+Karl Hein,64,gk,Arsenal
+Calvin Ramsay,64,def,Liverpool
+Shola Shoretire,64,"mid,mid,att",Manchester United
+Boubacar Traoré,64,mid,Wolverhampton Wanderers
+Carney Chukwuemeka,64,"mid,att",Chelsea
+Jamie Bowden,63,mid,Tottenham Hotspur
+Julio César Enciso,63,mid  att,Brighton and Hove Albion
+Jake Cain,62,mid,Liverpool
+Harrison Ashby,62,def,West Ham United
+Andy Lonergan,62,gk,Everton
+Kaide Gordon,62,"att  mid,att",Liverpool
+Romeo Lavia,62,mid,Southampton
+Ateef Konaté,61,mid  att,Nottingham Forest
+Aaron Pressley,61,att,Brentford
+Sammy Braybrooke,61,mid,Leicester City
+Luke Harris,61,mid,Fulham
+Hugo Bueno,60,def,Wolverhampton Wanderers
+Chem Campbell,60,mid  att,Wolverhampton Wanderers
+Luke Matheson,60,def,Wolverhampton Wanderers
+Thanawat Suengchitthawon,60,mid,Leicester City
+Alfie Devine,60,"mid,mid",Tottenham Hotspur
+James Norris,60,def,Liverpool
+Matthew Cox,59,gk,Brentford
+Evan Ferguson,59,att,Brighton and Hove Albion
+Alex Gilbert,59,"att  mid,mid,att",Brentford
+Odel Offiah,59,def,Brighton and Hove Albion
+Will Dennis,58,gk,AFC Bournemouth
+Brooklyn Lyons-Foster,58,def  mid,Tottenham Hotspur
+Pierre Ekwah Elimby,58,mid,West Ham United
+Alex Robertson,58,mid,Manchester City
+Killian Phillips,58,mid,Crystal Palace
+Sonny Perkins,58,"att  mid,att",Leeds United
+Tristan Crama,58,def,Brentford
+Lamare Bogarde,58,"def,mid",Aston Villa
+Ryan Trevitt,57,"mid,att",Brentford
+Jack Wells-Morrison,57,mid,Crystal Palace
+Darko Gyabi,57,mid,Leeds United
+Dale Taylor,56,att,Nottingham Forest
+George Shelvey,55,gk,Nottingham Forest
+Harry Birtwistle,55,"def,att",Wolverhampton Wanderers
+Dexter Lembikisa,55,"def,def",Wolverhampton Wanderers
+Joshua Feeney,55,def,Aston Villa
+Tyler Roberts,55,"att  mid,att",Wolverhampton Wanderers
+Oliver Hammond,54,mid,Nottingham Forest
+Jackson Smith,54,gk,Wolverhampton Wanderers
+Reece Welch,53,def,Everton
+Isaac Price,50,mid,Everton

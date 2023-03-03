@@ -8,6 +8,7 @@ class Team:
         self.wins = 0
         self.draws = 0
         self.losses = 0
+        self.players = {}
 
     
     def get_points(self):
@@ -30,6 +31,14 @@ class Team:
     def get_games_played(self):
         return self.wins + self.draws + self.losses
     
+class Player:
 
+    def __init__(self, name, rating, position):
+        self.name = name
+        self.rating = rating
+        self.position = position
+        self.worth = round((1.1)**(self.rating - 40)*1000000, 0)
+    
+    
 
     
