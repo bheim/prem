@@ -7,48 +7,49 @@ class League:
     def __init__(self):
         self.name = "Premier League"
         self.table = {}
+        self.teams_dic = {}
         self.team_names = []
 
-        self.teams_ratings = {"AFC Bournemouth": 74,
-                            "Arsenal": 81,
-                            "Aston Villa": 79,
-                            "Brentford": 75,
-                            "Brighton and Hove Albion": 77,
-                            "Chelsea": 83,
-                            "Crystal Palace": 76,
-                            "Everton": 77,
-                            "Fulham": 76,
-                            "Leeds United": 76,
-                            "Liverpool": 84,
-                            "Leicester City": 79,
-                            "Manchester City": 85,
-                            "Manchester United": 82,
-                            "Newcastle United": 79,
-                            "Nottingham Forest": 76,
-                            "Southampton": 75,
-                            "Tottenham Hotspur": 81,
-                            "West Ham United": 79,
-                            "Wolverhampton Wanderers": 78}
+        self.team_names = ["AFC Bournemouth",
+                            "Arsenal",
+                            "Aston Villa",
+                            "Brentford",
+                            "Brighton and Hove Albion",
+                            "Chelsea",
+                            "Crystal Palace",
+                            "Everton",
+                            "Fulham",
+                            "Leeds United",
+                            "Liverpool",
+                            "Leicester City",
+                            "Manchester City",
+                            "Manchester United",
+                            "Newcastle United",
+                            "Nottingham Forest",
+                            "Southampton",
+                            "Tottenham Hotspur",
+                            "West Ham United",
+                            "Wolverhampton Wanderers"]
         
 
-        for name, rating in self.teams_ratings.items():
-            self.teams_ratings[name] = Team(name, rating)
+        for name in self.team_names:
+            self.teams_dic[name] = Team(name)
         
         #getting players in teams
         players = pd.read_csv("players_update.csv")
         for _, row in players.iterrows():
-            self.teams_ratings[row['Club']].players[row['Name']] = Player(row['Name'], int(row['Ratings']), row['Position'])
+            self.teams_dic[row['Club']].add_player(Player(row['Name'], int(row['Ratings']), row['Position']))
 
-        for team in self.teams_ratings.keys():
-            self.team_names.append(team)
+        #getting ratings for teams
+        for team in self.teams_dic.values():
+            team.get_rating()
 
-        for name in self.teams_ratings.keys():
+        for name in self.team_names:
             self.table[name] = 0
     
     #algo for determing difference
     def diff_factor(team_one, team_two):
-        random_change = randint(-2, 2)
-        return round((team_one.rating - team_two.rating + random_change)/4)
+        return round((team_one.rating - team_two.rating)/4)
 
     #game function with no score, random score will be generated using rating systems
     #what if rating changed depending on score? Like we have a predicted score, and if it differs, rating is altered?
@@ -78,7 +79,7 @@ class League:
         team_lst = []
 
         for team in self.table.keys():
-            self.table[team] = self.teams_ratings[team].get_points()
+            self.table[team] = self.teams_dic[team].get_points()
    
         for k, v in self.table.items():
             team_lst.append((k, v))
